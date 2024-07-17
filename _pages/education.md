@@ -7,9 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+<br />
 
 École Polytechnique, France
 ------
+
+<img src="../images/polytechnique.png" width="100">
 
 **2023-2025, Master Degree**
 
@@ -17,9 +20,12 @@ author_profile: true
 
 GPA: 3.73/4.0
 
+<br />
 
 Southern University of Science and Technology, China
 ------
+
+<img src="../images/sustech.png" width="80" />
 
 **2019-2023, Bachelor Degree**
 
