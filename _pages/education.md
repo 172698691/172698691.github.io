@@ -9,7 +9,7 @@ author_profile: true
 
 <br />
 
-École Polytechnique, France
+*École Polytechnique*, France
 ------
 
 <img src="../images/polytechnique.png" width="100">
@@ -22,7 +22,7 @@ GPA: 3.73/4.0
 
 <br />
 
-Southern University of Science and Technology, China
+*Southern University of Science and Technology*, China
 ------
 
 <img src="../images/sustech.png" width="80" />
