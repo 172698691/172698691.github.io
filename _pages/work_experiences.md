@@ -27,7 +27,7 @@ Design and implement a 3D mesh auto-encoder with the ability to accurately captu
 
 **Research Assistant <br> 2022.09--2023.05**
 
-Cooperation with the optical laboratory was established to utilize state-of-the-art generative models for learning the wavelength of light and recovering the spectrum from RGB images. The main responsibilities included building the model, training it with processed data, and evaluating its performance. Successfully achieved spectral recovery of images containing single and dual wavelengths.
+Internship in Professor [Di Wang](https://cemse.kaust.edu.sa/people/person/di-wang)'s research group. Cooperation with the optical laboratory was established to utilize state-of-the-art generative models for learning the wavelength of light and recovering the spectrum from RGB images. The main responsibilities included building the model, training it with processed data, and evaluating its performance. Successfully achieved spectral recovery of images containing single and dual wavelengths.
 
 <br />
 
