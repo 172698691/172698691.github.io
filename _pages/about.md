@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a M1 master student at **École Polytechnique**, major in Artificial Intelligence & Advanced Visual Computing Master ([AiViC](https://programmes.polytechnique.edu/en/master/all-msct-programs/artificial-intelligence-advanced-visual-computing-master)). Before, I completed my bachelor degree in Intelligent Science and Technology at the **Southern University of Science and Technology** in China.
+I am currently a M2 master student at **École Polytechnique**, major in Artificial Intelligence & Advanced Visual Computing Master ([AiViC](https://programmes.polytechnique.edu/en/master/all-msct-programs/artificial-intelligence-advanced-visual-computing-master)). Before, I completed my bachelor degree in Intelligent Science and Technology at the **Southern University of Science and Technology** in China.
 
 Currently looking for a 5-6 month research internship from April 2025 and PhD position in 2025 Fall.
 
