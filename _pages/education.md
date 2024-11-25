@@ -18,7 +18,7 @@ author_profile: true
 
 [Master of Science and Technology in Artificial Intelligence & Advanced Visual Computing](https://programmes.polytechnique.edu/en/master/all-msct-programs/artificial-intelligence-advanced-visual-computing-master)
 
-GPA: 3.81/4.0
+GPA: 3.81/4.0 
 
 <br />
 
