@@ -9,6 +9,17 @@ author_profile: true
 
 <br />
 
+*Université Paris-Saclay*, France
+------
+
+<img src="../images/saclay.png" width="270">
+
+**Research Assistant <br> 2025.05--2025.11**
+
+Supervised by Prof. [Fragkiskos Malliaros](https://fragkiskos.me/) in [CVN lab](https://cvn.centralesupelec.fr/). The work focuses on self-supervised learning for graph-structured data, particularly graph contrastive learning. The goal is to understand and improve how Graph Neural Networks learn representations without labeled data. A key part of the work involves analyzing contrastive loss functions and how different graph augmentations affect learning outcomes. The project will also explore novel ways to model dependencies between augmented views using theoretical tools like manifolds. Another direction includes designing new loss functions based on graph properties such as the Weisfeiler-Leman test. 
+
+<br />
+
 *Animaj*, France
 ------
 
