@@ -15,4 +15,5 @@ Research Interest
 ------
 - 3D character animation, environment and scene design, animation special effects, and virtual reality and augmented reality
 - Computer graphics, 3D graphics processing, visual computing and advanced rendering technology
+- Graph contrastive learning, self-supervised learning, graph neural networks, graph augmentations, manifold modeling
 - Multi-objective evolutionary algorithm and its application in industry
