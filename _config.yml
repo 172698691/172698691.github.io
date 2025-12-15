@@ -21,7 +21,7 @@ repository               : "172698691/172698691.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_1.jepg"
+  avatar           : "profile_1.jpeg"
   name             : "Ziyu WU"
   pronouns         : # example: "she/her"  
   bio              : "Master student at École Polytechnique, major in AI and Visual Computing"
